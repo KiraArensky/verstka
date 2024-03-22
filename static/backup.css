@@ -1,0 +1,17 @@
+/*Сброс стилей*/
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body, p, h1, h2, h3, h4, h5, ul {
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+/*Сброс стилей закончен*/

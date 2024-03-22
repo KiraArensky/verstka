@@ -4,9 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ea90a77-78ac-461f-88ba-8a7cba086389" name="Changes" comment="features prototype done">
+    <list default="true" id="0ea90a77-78ac-461f-88ba-8a7cba086389" name="Changes" comment="da">
+      <change afterPath="$PROJECT_DIR$/static/backup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/features.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/feedback.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/mainblock.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/navigation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/projects.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/technology.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +28,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="SCSS File" />
       </list>
     </option>
   </component>
@@ -45,14 +58,14 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/dekof/Downloads/project-main (1)",
-    "list.type.of.created.stylesheet": "CSS",
+    "list.type.of.created.stylesheet": "SCSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "C:/Users/dekof/AppData/Roaming/JetBrains/PyCharm2023.3/node/node-v18.15.0-win-x64/node",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "configurable.group.tools",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -95,7 +108,8 @@
       <workItem from="1708071082446" duration="5179000" />
       <workItem from="1708187589043" duration="603000" />
       <workItem from="1708196391087" duration="41000" />
-      <workItem from="1711035555875" duration="2170000" />
+      <workItem from="1711035555875" duration="3646000" />
+      <workItem from="1711084141839" duration="1986000" />
     </task>
     <task id="LOCAL-00001" summary="start work with features">
       <option name="closed" value="true" />
@@ -113,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708076138802</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="da">
+      <option name="closed" value="true" />
+      <created>1711045837527</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711045837527</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +155,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start work with features" />
     <MESSAGE value="features prototype done" />
-    <option name="LAST_COMMIT_MESSAGE" value="features prototype done" />
+    <MESSAGE value="da" />
+    <option name="LAST_COMMIT_MESSAGE" value="da" />
   </component>
 </project>
