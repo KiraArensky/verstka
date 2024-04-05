@@ -1,0 +1,20 @@
+/* стили для навигации */
+
+.navigation {
+    padding-top: 35px;
+    margin-bottom: 72px;
+    @media screen and (max-width: 576px) {
+        padding-top: 10px;
+    }
+
+    .navigation__wrap {
+        display: flex;
+        justify-content: space-between;
+
+        .navigation__logo {
+            @media screen and (max-width: 576px) {
+                width: 75px;
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* стили для навигации */
+.navigation {
+  padding-top: 35px;
+  margin-bottom: 72px;
+}
+@media screen and (max-width: 576px) {
+  .navigation {
+    padding-top: 10px;
+  }
+}
+.navigation .navigation__wrap {
+  display: flex;
+  justify-content: space-between;
+}
+@media screen and (max-width: 576px) {
+  .navigation .navigation__wrap .navigation__logo {
+    width: 75px;
+  }
+}
+
+/*# sourceMappingURL=navigation.css.map */

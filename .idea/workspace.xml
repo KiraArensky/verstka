@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ea90a77-78ac-461f-88ba-8a7cba086389" name="Changes" comment="da">
-      <change afterPath="$PROJECT_DIR$/static/backup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/features.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/feedback.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/mainblock.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/navigation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/projects.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/technology.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0ea90a77-78ac-461f-88ba-8a7cba086389" name="Changes" comment="all done, need vue">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,14 +15,34 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Sass File" />
         <option value="SCSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KiraArensky&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e570f763-fbd6-4612-bfef-0ab167c5bef6" />
+        <option name="url" value="https://github.com/KiraArensky/verstka.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,33 +51,37 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2cPW6Ubvz1sjXGBxVmGhIjvT86O" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.index.html.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/dekof/Downloads/project-main (1)",
-    "list.type.of.created.stylesheet": "SCSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "C:/Users/dekof/AppData/Roaming/JetBrains/PyCharm2023.3/node/node-v18.15.0-win-x64/node",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.tools",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;b593c776&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dekof/Downloads/project-main (1)&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;SCSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;C:/Users/dekof/AppData/Roaming/JetBrains/PyCharm2023.3/node/node-v18.15.0-win-x64/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor.code.editing&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dekof\project\verstka\assets" />
+      <recent name="C:\Users\dekof\project\verstka\assets\sass" />
       <recent name="C:\Users\dekof\project\verstka" />
     </key>
   </component>
@@ -108,8 +119,10 @@
       <workItem from="1708071082446" duration="5179000" />
       <workItem from="1708187589043" duration="603000" />
       <workItem from="1708196391087" duration="41000" />
-      <workItem from="1711035555875" duration="3646000" />
-      <workItem from="1711084141839" duration="1986000" />
+      <workItem from="1711035555875" duration="2170000" />
+      <workItem from="1712078013008" duration="5233000" />
+      <workItem from="1712244156925" duration="2499000" />
+      <workItem from="1712293290878" duration="681000" />
     </task>
     <task id="LOCAL-00001" summary="start work with features">
       <option name="closed" value="true" />
@@ -127,13 +140,13 @@
       <option name="project" value="LOCAL" />
       <updated>1708076138802</updated>
     </task>
-    <task id="LOCAL-00003" summary="da">
+    <task id="LOCAL-00003" summary="all done, need vue">
       <option name="closed" value="true" />
-      <created>1711045837527</created>
+      <created>1712085007457</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1711045837527</updated>
+      <updated>1712085007457</updated>
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
@@ -155,7 +168,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start work with features" />
     <MESSAGE value="features prototype done" />
-    <MESSAGE value="da" />
-    <option name="LAST_COMMIT_MESSAGE" value="da" />
+    <MESSAGE value="all done, need vue" />
+    <option name="LAST_COMMIT_MESSAGE" value="all done, need vue" />
   </component>
 </project>
