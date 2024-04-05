@@ -18,7 +18,7 @@
       margin-bottom: 25px;
       color: #0C2836;
 
-      @media screen and (max-width: 1000px) {
+      @media screen and (max-width: 991px) {
         display: none;
       }
     }
@@ -26,10 +26,8 @@
 
   #select {
     color: #FFA239;
-    @media screen and (max-width: 1000px) {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
+    @media screen and (max-width: 991px) {
+        display: none;
     }
   }
 

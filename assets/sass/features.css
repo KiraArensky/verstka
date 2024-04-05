@@ -18,7 +18,7 @@
   margin-bottom: 25px;
   color: #0C2836;
 }
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 991px) {
   .features .features__list li {
     display: none;
   }
@@ -26,11 +26,9 @@
 .features #select {
   color: #FFA239;
 }
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 991px) {
   .features #select {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    display: none;
   }
 }
 .features .features__card {

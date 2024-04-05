@@ -4,22 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ea90a77-78ac-461f-88ba-8a7cba086389" name="Changes" comment="need sccs">
-      <change afterPath="$PROJECT_DIR$/assets/sass/base.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/features.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/feedback.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/navigation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/projects.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/promo.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/tech.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+    <list default="true" id="0ea90a77-78ac-461f-88ba-8a7cba086389" name="Changes" comment="all done, need vue">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +64,7 @@
     &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;06463682&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;b593c776&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/dekof/Downloads/project-main (1)&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;SCSS&quot;,
@@ -134,7 +120,9 @@
       <workItem from="1708187589043" duration="603000" />
       <workItem from="1708196391087" duration="41000" />
       <workItem from="1711035555875" duration="2170000" />
-      <workItem from="1712078013008" duration="5091000" />
+      <workItem from="1712078013008" duration="5233000" />
+      <workItem from="1712244156925" duration="2499000" />
+      <workItem from="1712293290878" duration="681000" />
     </task>
     <task id="LOCAL-00001" summary="start work with features">
       <option name="closed" value="true" />
@@ -152,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708076138802</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="all done, need vue">
+      <option name="closed" value="true" />
+      <created>1712085007457</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712085007457</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +168,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start work with features" />
     <MESSAGE value="features prototype done" />
-    <option name="LAST_COMMIT_MESSAGE" value="features prototype done" />
+    <MESSAGE value="all done, need vue" />
+    <option name="LAST_COMMIT_MESSAGE" value="all done, need vue" />
   </component>
 </project>
